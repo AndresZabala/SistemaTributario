@@ -1,0 +1,8 @@
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\bin\Debug\MvcContrato.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\bin\Debug\MvcContrato.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\obj\Debug\MvcContrato.csprojAssemblyReference.cache
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\obj\Debug\MvcContrato.csproj.CopyComplete
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\obj\Debug\MvcContrato.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\obj\Debug\MvcContrato.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\bin\Debug\MvcEntidad.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcContrato\bin\Debug\MvcEntidad.pdb

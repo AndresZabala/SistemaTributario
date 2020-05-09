@@ -1,0 +1,11 @@
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\MvcDatos.dll.config
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\MvcDatos.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\MvcDatos.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\EntityFramework.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\EntityFramework.xml
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\obj\Debug\MvcDatos.csprojAssemblyReference.cache
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\obj\Debug\MvcDatos.csproj.CopyComplete
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\obj\Debug\MvcDatos.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcDatos\obj\Debug\MvcDatos.pdb

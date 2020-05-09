@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TributariaModelStoreContainer" CdmEntityContainer="TributariaEntities">
+    <EntitySetMapping Name="Producto">
+      <EntityTypeMapping TypeName="TributariaModel.Producto">
+        <MappingFragment StoreEntitySet="Producto">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tercero">
+      <EntityTypeMapping TypeName="TributariaModel.Tercero">
+        <MappingFragment StoreEntitySet="Tercero">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Identificacion" ColumnName="Identificacion" />
+          <ScalarProperty Name="TipoIdentificacion" ColumnName="TipoIdentificacion" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="FechaCreacion" ColumnName="FechaCreacion" />
+          <ScalarProperty Name="EsProveedor" ColumnName="EsProveedor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Venta">
+      <EntityTypeMapping TypeName="TributariaModel.Venta">
+        <MappingFragment StoreEntitySet="Venta">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdTercero" ColumnName="IdTercero" />
+          <ScalarProperty Name="IdProducto" ColumnName="IdProducto" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

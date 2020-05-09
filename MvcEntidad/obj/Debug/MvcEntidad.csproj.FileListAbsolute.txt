@@ -1,0 +1,5 @@
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcEntidad\bin\Debug\MvcEntidad.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcEntidad\bin\Debug\MvcEntidad.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcEntidad\obj\Debug\MvcEntidad.csprojAssemblyReference.cache
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcEntidad\obj\Debug\MvcEntidad.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcEntidad\obj\Debug\MvcEntidad.pdb

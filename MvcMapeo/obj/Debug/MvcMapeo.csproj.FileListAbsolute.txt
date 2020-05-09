@@ -1,0 +1,13 @@
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcMapeo.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcMapeo.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcDatos.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcEntidad.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\EntityFramework.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcDatos.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcDatos.dll.config
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\MvcEntidad.pdb
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\bin\Debug\EntityFramework.xml
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\obj\Debug\MvcMapeo.csprojAssemblyReference.cache
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\obj\Debug\MvcMapeo.csproj.CopyComplete
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\obj\Debug\MvcMapeo.dll
+C:\Users\ANDRES PC\source\repos\MvcTributaria\MvcMapeo\obj\Debug\MvcMapeo.pdb
